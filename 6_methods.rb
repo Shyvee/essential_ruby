@@ -7,7 +7,7 @@ def print_heading
   puts "=" * content.length
 end
 
-print_heading
+print_heading # this is to call the method
 
 puts " - Trenton"
 puts " - Arthur"
